@@ -33,7 +33,19 @@ git commit
 ## 🔗Links
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-##
+## Image 
+![Image](https://github.com/Ravindrasuthar/first-one/blob/main/git_github.png)
+
+## Lists
+### Unorderes List
+* first
+* Secind
+* Third
+
+### Ordered List
+1. First
+1. Second
+1. Third
 
 
 
