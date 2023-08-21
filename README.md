@@ -2,7 +2,7 @@
 ---
 
 
-## Styling text
+## Styling text      <!-- we can see list of styling text in unordered list -->
 * __This is bold text__
 
 * _This text is italicized_
@@ -58,4 +58,21 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 |    Varsha      | varsha@gmail.com|
 |       Raj      | raj01@gmail.com |
 
-## 
+## Mentioning people and teams
+@Ravindrasuthar What do you think about these updates?
+
+
+## 🍋Using emoji
+@Ravindrasuthar :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+## Footnotes
+Here is a simple footnote[^1].
+[^1]: My reference.
+
+## Ignoring Markdown rendering
+Let's create an **Impact**.
+
+Let's create an \*\*Impact.\*\*
+
+
