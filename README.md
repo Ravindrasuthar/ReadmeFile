@@ -31,7 +31,7 @@ git commit
 ```
 
 ## 🔗Links
-Click on the link to visit Github [Github](https://github.com/).
+Click on the link to visit excellent website [Github](https://github.com/).
 
 ## Image 
 ![Image](https://github.com/Ravindrasuthar/first-one/blob/main/git_github.png)
