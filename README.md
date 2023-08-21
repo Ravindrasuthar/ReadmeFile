@@ -47,6 +47,15 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 1. Second
 1. Third
 
+## Task Lists
+- [x] task 1
+- [x] task 2
+- [ ] task 3
 
+## Table 
+|      Name      |      Email      |
+| -------------- | --------------- |
+|    Varsha      | varsha@gmail.com|
+|       Raj      | raj01@gmail.com |
 
-
+## 
